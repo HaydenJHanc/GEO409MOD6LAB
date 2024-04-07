@@ -1,11 +1,11 @@
-# My area of change
-## My subtitle about the change
+# Lexington: 2011 to 2019
+## This map shows change onf 30x30m pixels of Land Cover Classifications
 
-A short paragraph describing the change that occurred in my area.
+Lexington has seen an impressive amount of growth in the past decade. Most of what is shown on the map is outside New Circle Road. There is likely more development that could be seen in the inner city by comparing Digital Surface Models as opposed to using Land Cover.
 
-![Caption of map](map.jpg)     
-*Caption of Map*
+![Lexington_Land_Cover_Change](Layout.jpg)     
+*Lexington_Land_Cover_Change*
 
-[Link to high-resolution version](hi-res.pdf)     
+[Link to high-resolution version](Layout.pdf)     
 
-Information about the author and data sources used in the analysis.
+Imagery taken by KyFromAbove. 
